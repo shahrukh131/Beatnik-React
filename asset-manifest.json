@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Beatnik-React/static/css/main.87660760.chunk.css",
+    "main.js": "/Beatnik-React/static/js/main.cb0954c4.chunk.js",
+    "main.js.map": "/Beatnik-React/static/js/main.cb0954c4.chunk.js.map",
+    "runtime-main.js": "/Beatnik-React/static/js/runtime-main.94e7bcbc.js",
+    "runtime-main.js.map": "/Beatnik-React/static/js/runtime-main.94e7bcbc.js.map",
+    "static/css/2.75c4ecca.chunk.css": "/Beatnik-React/static/css/2.75c4ecca.chunk.css",
+    "static/js/2.138f0bdc.chunk.js": "/Beatnik-React/static/js/2.138f0bdc.chunk.js",
+    "static/js/2.138f0bdc.chunk.js.map": "/Beatnik-React/static/js/2.138f0bdc.chunk.js.map",
+    "index.html": "/Beatnik-React/index.html",
+    "precache-manifest.f3c6084509afc01f5c27629d1649e836.js": "/Beatnik-React/precache-manifest.f3c6084509afc01f5c27629d1649e836.js",
+    "service-worker.js": "/Beatnik-React/service-worker.js",
+    "static/css/2.75c4ecca.chunk.css.map": "/Beatnik-React/static/css/2.75c4ecca.chunk.css.map",
+    "static/css/main.87660760.chunk.css.map": "/Beatnik-React/static/css/main.87660760.chunk.css.map",
+    "static/js/2.138f0bdc.chunk.js.LICENSE.txt": "/Beatnik-React/static/js/2.138f0bdc.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/Beatnik-React/static/media/1.c2b5532c.jpg",
+    "static/media/2.jpg": "/Beatnik-React/static/media/2.101b2b43.jpg",
+    "static/media/iamge2.jpg": "/Beatnik-React/static/media/iamge2.b51af0d3.jpg",
+    "static/media/world5.png": "/Beatnik-React/static/media/world5.35f0cbe2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94e7bcbc.js",
+    "static/css/2.75c4ecca.chunk.css",
+    "static/js/2.138f0bdc.chunk.js",
+    "static/css/main.87660760.chunk.css",
+    "static/js/main.cb0954c4.chunk.js"
+  ]
+}
