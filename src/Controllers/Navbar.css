@@ -1,0 +1,29 @@
+.navbar a:hover {
+    color: #3498db !important;
+}
+
+.nav-link {
+    color: #3498db;
+}
+
+h6 {
+    font-weight: 900;
+}
+
+.menu_actives {
+    font-weight: bolder;
+    font-size: larger;
+}
+
+.nav-link {
+    color: black;
+}
+
+.navbar-brand {
+    font-size: 1.9rem !important;
+    color: #D4AF37 !important;
+}
+
+.navbar {
+    border-bottom: 1px solid #e3dcdc;
+}
